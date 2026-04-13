@@ -7,5 +7,5 @@ git commit -m "": Sirve para hacer el commit del arcivho junto al mensaje
 git push: Subir el archivo al repo
 git config --global user.name "" o user.email: Sirve para configurar nuestras credenciales
 
-git fetch: Para visualizar la rama
+git fetch: Identifica los cambios que he hecho
 git pull: Traer los cambios
