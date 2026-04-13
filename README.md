@@ -6,3 +6,6 @@ git add . : Agregar el archivo nuevo que se ha anadido al repo y el punto sirve 
 git commit -m "": Sirve para hacer el commit del arcivho junto al mensaje
 git push: Subir el archivo al repo
 git config --global user.name "" o user.email: Sirve para configurar nuestras credenciales
+
+git fetch: Para visualizar la rama
+git pull: Traer los cambios
